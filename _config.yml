@@ -18,16 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: NFL Pick'Em
+title: Mislansky NFL Pick'Em
 email: jmislansky@icloud.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This pages hosts all the current and historical data for the Mislansky NFL
-  Pick'Em league. Started in 2019 in the Apple Notes app, this has slowly
-  expanded from just two people playing to over 20 in just a short amount of time.
-#baseurl: "" # the subpath of your site, e.g. /blog
+description: >-
+  This pages hosts all the current and historical data for the Mislansky NFL Pick'Em league. Started in 2019 in the Apple Notes app, this has slowly expanded from just two people playing to over 20 in just a short amount of time.
+disclaimer: >- # this means to ignore newlines until "baseurl:"
+  This site may contain copyrighted material whose use has not be specifically authorized by the  copyright owner. This material is use for informational use only and we believe this constitutes a "fair use" of the material as provided for in section 107 of the US Copywriter Law. If your copyrighted material appears on this web site and you disagree with our assessment that it constitutes "fair use", please contact us. 
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jmislansky.github.io/nflpickem/"
 twitter_username: jmislansky
 github_username:  jmislansky
+
+header_pages:
+  - current_season/standings.md
+  - previous_seasons/main.md
 
 # Build settings
 theme: minima
