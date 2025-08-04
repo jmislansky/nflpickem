@@ -1,0 +1,8 @@
+Header,game1,game2,game3,game4,game5,game6,game7,game8,game9,game10,game11,game12,game13,game14,game15,game16
+Date,"Thu, Sep 4","Fri, Sep 5","Sun, Sep 7","Sun, Sep 7","Sun, Sep 7","Sun, Sep 7","Sun, Sep 7","Sun, Sep 7","Sun, Sep 7","Sun, Sep 7","Sun, Sep 7","Sun, Sep 7","Sun, Sep 7","Sun, Sep 7","Sun, Sep 7","Mon, Sep 8"
+Time,8:20 PM,8:00 PM,1:00 PM,1:00 PM,1:00 PM,1:00 PM,1:00 PM,1:00 PM,1:00 PM,1:00 PM,4:05 PM,4:05 PM,4:25 PM,4:25 PM,8:20 PM,8:15 PM
+TV,NBC/Peacock,YouTube,FOX,FOX,CBS,CBS,CBS,CBS,FOX,FOX,FOX,FOX,CBS,CBS,NBC,ABC/ESPN
+Home,"<img src=""images/color_logos/{{ site.philadelphia_logo }}"">",Los Angeles Chargers,Atlanta Falcons,Cleveland Browns,Indianapolis Colts,New England Patriots,New Orleans Saints,New York Jets,Washington Commanders,Jacksonville Jaguars,Denver Broncos,Seattle Seahawks,Green Bay Packers,Los Angeles Rams,Buffalo Bills,Chicago Bears
+Away,,Kansas City Chiefs,Tampa Bay Buccaneers,Cincinnati Bengals,Miami Dolphins,Las Vegas Raiders,Arizona Cardinals,Pittsburgh Steelers,New York Giants,Carolina Panthers,Tennessee Titans,San Francisco 49ers,Detroit Lions,Houston Texans,Baltimore Ravens,Minnesota Vikings
+Location,Philadelphia,Sao Paulo,Atlanta,Cleveland,Indianapolis,Foxborough,New Orleans,East Rutherford,Landover,Jacksonville,Denver,Seattle,Green Bay,Inglewood,Orchard Park,Chicago
+Spread,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD

@@ -30,8 +30,43 @@ twitter_username: jmislansky
 github_username:  jmislansky
 
 header_pages:
+  - current_season/schedule.md
   - current_season/standings.md
   - previous_seasons/main.md
+
+# team logos
+arizona_logo:  arizona_cardinals_color.png
+atlanta_logo:  atlanta_falcons_color.png
+baltimore_logo:  baltimore_ravens_color.png
+buffalo_logo:  buffalo_bills_color.png
+carolina_logo:  carolina_panthers_color.png
+chicago_logo:  chicago_bears_color.png
+cincinnati_logo:  cincinnati_bengals_color.png
+cleveland_logo:  cleveland_browns_color.png
+dallas_logo:  dallas_cowboys_color.png
+denver_logo:  denver_broncos_color.png
+detroit_logo:  detroit_lions_color.png
+greenbay_logo:  greenbay_packers_color.png
+houston_logo:  houston_texans_color.png
+indianapolis_logo:  indianapolis_colts_color.png
+jacksonville_logo:  jacksonville_jaguars_color.png
+kansascity_logo:  kansascity_chiefs_color.png
+lasvegas_logo:  lasvegas_raiders_color.png
+losangeles_chargers_logo:  losangeles_chargers_color.png
+losangeles_rams_logo:  losangeles_rams_color.png
+miami_logo:  miami_dolphins_color.png
+minnesota_logo:  minnesota_viking_color.png
+newengland_logo:  newengland_patriots_color.png
+neworleans_logo:  neworleans_saints_color.png
+newyork_giantslogo:  newyork_giants_color.png
+newyork_jets_logo:  newyork_jets_color.png
+philadelphia_logo:  philadelphia_eagles_color.png
+pittsburgh_logo:  pittsburgh_steelers_color.png
+sanfrancisco_logo:  sanfrancisco_49ers_color.png
+seattle_logo:  seattle_seahawks_color.png
+tampabay_logo:  tampabay_buccaneers_color.png
+tennessee_logo:  tennessee_titans_color.png
+washington_logo:  washington_commanders_color.png
 
 # Build settings
 theme: minima
